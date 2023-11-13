@@ -333,7 +333,7 @@
     color: azure;
     margin-top: 20px;
 }
-@media(max-width:320px){
+@media(max-width:190px){
     .shop-section1{
         display: block;
    min-height: 180vh;
