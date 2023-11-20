@@ -488,12 +488,7 @@
     color: azure;
     margin-top: 20px;
 }
-@media(min-width:340px){
-    .shop-section1{
-        display: block;
-   min-height: 180vh;
-    }
-}
+
 
 
 
