@@ -170,33 +170,83 @@
 .box11{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box11 p{
+    margin-left: 25px;
+}
+.container-boxx11{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box1_image.jpg");
     background-size: cover;
 }
-
 .box12{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
-    background-image: url("box2_image.jpg");
+}
+.box12 p{
+    margin-left: 25px;
+}
+.container-boxx12{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+   background-image: url("box2_image.jpg");
     background-size: cover;
 }
 .box13{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box13 p{
+    margin-left: 25px;
+}
+.container-boxx13{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box3_image.jpg");
     background-size: cover;
 }
 .box21{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box21 p{
+    margin-left: 25px;
+}
+.container-boxx21{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+
+    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box4_image.jpg");
     background-size: cover;
 }
@@ -204,45 +254,150 @@
 .box22{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box22 p{
+    margin-left: 25px;
+}
+.container-boxx22{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+  /*  margin-right: 20px;*/
+  justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box5_image.jpg");
     background-size: cover;
 }
 .box23{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box23 p{
+    margin-left: 25px;
+}
+.container-boxx23{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+  /*  margin-right: 20px;*/
+  justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box6_image.jpg");
     background-size: cover;
 }
 .box31{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
-    background-image: url("box7_image.jpg");
+
+}
+.box31 p{
+    margin-left: 25px;
+}
+.container-boxx31{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+  /*  margin-right: 20px;*/
+   justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
+   background-image: url("box7_image.jpg");
     background-size: cover;
 }
-
 .box32{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box32 p{
+    margin-left: 25px;
+}
+.container-boxx32{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+  /*  margin-right: 20px;*/
+  justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box8_image.jpg");
     background-size: cover;
 }
 .box33{
     width: 306.60px;
     height: 306.60px;
-    background-color: rgb(11, 50, 83);
+    background-color: white;
     margin-top: 15px;
+}
+.box33 p{
+    margin-left: 25px;
+}
+.container-boxx33{
+    width: 80%;
+    height: 65%;
+   margin-top: 30px;
+    margin-left: 30px;
+  /*  margin-right: 20px;*/
+   justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     background-image: url("box3_image.jpg");
     background-size: cover;
 }
 .box11 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box12 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box13 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box21 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box22 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box23 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box31 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box32 p{
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+.box33 p{
     font-size: 1.3rem;
     font-weight: 800;
 
