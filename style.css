@@ -488,6 +488,80 @@
     color: azure;
     margin-top: 20px;
 }
+@media(max-width:720px){
+    .shop-section1{
+       display: block;
+       align-items: center; 
+       height: 900px;
+    }
+    .box11 {
+        margin-top: 40px;
+         width: 100%;
+         height: 260px;
+    }
+    
+    /*.shop-section1 box11 box12 box13 box21{
+         position: relative;
+    }*/
+    .box12{
+        width: 100%;
+        height: 260px;
+
+    }
+    .box13{
+        width: 100%;
+        height: 260px;
+    }
+    .box21{
+        margin-top: 40px;
+        width: 100%;
+        height: 260px;
+    }
+    .box22{
+        width: 100%;
+        height: 260px;
+    }
+    .box23{
+        width: 100%;
+        height: 260px;
+    }
+    .box31{
+        margin-top: 40px;
+        width: 100%;
+        height: 260px;
+    }
+    .box32{
+        width: 100%;
+        height: 260px;
+    }
+    .box33{
+        width: 100%;
+        height: 260px;
+    }
+
+    .botom2{
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    .b1{
+        height: 150px;
+        margin-top: 50px;
+    }
+    .b2{
+        height: 150px;
+    }
+    .b3{
+        height: 150px;
+    }
+    .b4{
+        height: 150px;
+    } 
+    #class{
+        width: 90px;
+    }
+
+}
 
 
 
